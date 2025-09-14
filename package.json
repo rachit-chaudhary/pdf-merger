@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "electron": "^38.1.0",
+    "pdf-lib": "^1.17.1"
+  },
+  "name": "merge-pdf",
+  "version": "1.0.0",
+  "main": "mergePdfs.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "www.rachitchaudhary.com",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron-packager": "^17.1.2"
+  }
+}
